@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MPP_Lab4">
+      <HintPath>..\..\MPP_Lab4\MPP_Lab4\bin\Debug\net5.0\MPP_Lab4.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
