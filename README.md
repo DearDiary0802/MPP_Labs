@@ -79,4 +79,4 @@ void EnqueueTask(TaskDelegate task);
 <br />2. Имеет свойство Count, показывающее количество элементов;
 <br />3. Имеет свойство Items для доступа к элементам по индексу;
 <br />4. Имеет методы Add, Remove, RemoveAt, Clear;
-- реализует интерфейс IEnumerable<T>.
+<br />5. Реализует интерфейс IEnumerable<T>.
